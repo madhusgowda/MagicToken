@@ -12,6 +12,7 @@ Token 1 --> MAGIC Token
     Kovan Link: https://kovan.etherscan.io/address/0xd19f28dbe3ffd95b7ed8f4fa062ddcb395d3fdaa#code
 
 Token 2 --> RMAGIC Token
+    
     address: 0x045d6BCca7432b06665311dA17824f4acF0AE872
     Total supply: 100000000000000000000000
     Token Name: Magic Reward Token
@@ -20,6 +21,7 @@ Token 2 --> RMAGIC Token
     Kovan Link: https://kovan.etherscan.io/address/0x045d6bcca7432b06665311da17824f4acf0ae872#code
 
 Staking --> Reward Token Pool
+    
     address: 0x71dc4cf37c576dcf5aa87f630deb3eeea3454a7f
     Kovan Link: https://kovan.etherscan.io/address/0x71dc4cf37c576dcf5aa87f630deb3eeea3454a7f#code
 
